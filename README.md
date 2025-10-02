@@ -42,7 +42,7 @@ portfolio-website/
 
 This site is deployed using **GitHub Pages**.
 
-🔗 Live Demo: [https://your-username.github.io/tharshini-portfolio](https://your-username.github.io/tharshini-portfolio)
+🔗 Live Demo: https://github.com/smily17queen/tharshini-portfolio(https://github.com/smily17queen/tharshini-portfolio)
 
 ### How to Deploy
 
